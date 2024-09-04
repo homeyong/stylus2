@@ -1,1 +1,1 @@
-img src onerror=alert()
+<img src onerror=alert()> → x
